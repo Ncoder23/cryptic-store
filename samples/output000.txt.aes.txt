@@ -1,0 +1,26 @@
+Agile Transformation Program	MySQL	egiacoppolie@gnu.org	MongoDB,MySQL,React	0.94
+Agile Transformation Program	MySQL	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
+Cloud Migration Initiative	JavaScript	vsibbet20@360.cn	React,JavaScript,Kubernetes,MongoDB	0.99
+Cloud Migration Initiative	JavaScript	gfibbit2@oracle.com	React,AWS,JavaScript	0.88
+Cloud Migration Initiative	JavaScript	rboatrightc@posterous.com	JavaScript,Agile Methodology,C++,Python,PostgreSQL	0.88
+CRM Implementation Project	C++	cmilan9@google.pl	C++,Express.js,Agile Methodology	0.94
+CRM Implementation Project	C++	rboatrightc@posterous.com	JavaScript,Agile Methodology,C++,Python,PostgreSQL	0.88
+CRM Implementation Project	C++	klillico21@barnesandnoble.com	Vue,Agile Methodology,C++,Git,AWS,HTML	0.87
+CRM Implementation Project	C++	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
+Cybersecurity Enhancement Project	Java	NULL	NULL	NULL
+Data Analytics Platform Development	Express.js	cmilan9@google.pl	C++,Express.js,Agile Methodology	0.94
+Data Analytics Platform Development	Express.js	klongmorea@tamu.edu	Express.js,Docker,CSS	0.93
+Data Analytics Platform Development	Express.js	hbathow16@usgs.gov	Git,Vue,Kubernetes,Express.js,Node.js	0.88
+Data Analytics Platform Development	Express.js	rseeds8@goodreads.com	Express.js,HTML,React	0.87
+Digital Workplace Implementation	Angular	cbonnettb@xrea.com	Docker,Angular,PostgreSQL,React	0.94
+Digital Workplace Implementation	Angular	bmccallisterv@ihg.com	Angular,Python,HTML	0.87
+Digital Workplace Implementation	Angular	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
+E-commerce Website Redesign	Java	NULL	NULL	NULL
+ERP System Upgrade	Vue	hbathow16@usgs.gov	Git,Vue,Kubernetes,Express.js,Node.js	0.88
+ERP System Upgrade	Vue	klillico21@barnesandnoble.com	Vue,Agile Methodology,C++,Git,AWS,HTML	0.87
+ERP System Upgrade	Vue	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
+Mobile App Development Initiative	Angular	cbonnettb@xrea.com	Docker,Angular,PostgreSQL,React	0.94
+Mobile App Development Initiative	Angular	bmccallisterv@ihg.com	Angular,Python,HTML	0.87
+Mobile App Development Initiative	Angular	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
+Project Phoenix	MySQL	egiacoppolie@gnu.org	MongoDB,MySQL,React	0.94
+Project Phoenix	MySQL	nendacott23@myspace.com	AWS,C++,Vue,MySQL,Angular	0.85
